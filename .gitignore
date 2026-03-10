@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.bak
+
+# Secrets
+.env
+credentials.json
+token.json
+
+# Node
+node_modules/
+
+# Large files warning — use Git LFS for video/audio
+# git lfs track "*.mp4" "*.wav" "*.mp3"
